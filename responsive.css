@@ -1,0 +1,12 @@
+@media screen and  (max-width: 450px) {
+    h1{
+        font-size: 3rem;
+        margin: 50px 0;
+
+    }
+    .drum{
+        height: 110px;
+        width: 110px;
+        line-height: 1;
+    }
+}
